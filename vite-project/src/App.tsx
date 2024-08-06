@@ -1,7 +1,5 @@
-import "./App.css";
-
 function App() {
-  return <p>hello wolrd!</p>;
+  return <h1>hello wolrd!</h1>;
 }
 
 export default App;
