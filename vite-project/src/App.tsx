@@ -1,5 +1,6 @@
 import Heading from "./components/Heading";
 import Section from "./components/Section";
+import Array from "./components/Array";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Section>
         {"lorem ipsum santo do caprio ce catrio sion spaghtti."}
       </Section>
+      <Array></Array>
     </>
   );
 }
